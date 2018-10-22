@@ -65,7 +65,7 @@ Deployment: Hosted on **ScienceCloud**, deployed through **Docker** and **Travis
 
 ## Schema
 
-[schema](s3it_21_10_2018/img/db_er.png)
+[schema](https://raw.githubusercontent.com/CitizenScienceCenter/presentations/master/s3it_21_10_2018/img/db_er.png)
 
 
 ---
