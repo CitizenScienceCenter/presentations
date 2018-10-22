@@ -53,8 +53,6 @@ This can then be accessed by citizen scientists to discover, participate and sha
 4. Next Steps
 
 
-* I reserve the right to not follow this structure whatsoever and ramble for 40 minutes
-
 ---
 
 ## Functional Requirements
@@ -307,7 +305,7 @@ Java, Swift, Kotlin, Objective-C, React Native, Nativescript, Cordova, PhoneGap,
 
 ### Want to help?
 
-What are you forking waiting for?
+What are you waiting for?
 
 https://github.com/citizensciencecenter
 
