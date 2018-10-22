@@ -65,7 +65,8 @@ Deployment: Hosted on **ScienceCloud**, deployed through **Docker** and **Travis
 
 ## Schema
 
-[schema](./s3it_21_10_2018/img/db_er.png)
+[schema](img/db_er.png)
+
 
 ---
 
