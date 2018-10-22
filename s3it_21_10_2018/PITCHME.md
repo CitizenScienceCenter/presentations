@@ -42,15 +42,13 @@ This can then be accessed by citizen scientists to discover, participate and sha
 
 ---
 
-## Contents
+### Contents
 
 1. Requirements
 2. Architecture
 	1. Database
-	2. API Design
-	3. Backend
-	4. Mobile
-	5. Web
+	2. API Design and Server
+	3. Mobile and Web
 3. Current Progress
 4. Next Steps
 
