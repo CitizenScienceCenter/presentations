@@ -18,7 +18,9 @@
  
  ## How?
  
- Through a combined centre and academy for participatory research, these are designed to be a central hub for those that want to develop their own citizen science project or require assistance with a current project.
+ Through a combined centre and academy for participatory research.
+ 
+ These are designed to be a central hub for those that want to develop their own citizen science project or require assistance with a current project.
  
  
 ---
@@ -40,6 +42,22 @@ This can then be accessed by citizen scientists to discover, participate and sha
 
 ---
 
+## Contents
+
+1. Requirements
+2. Architecture
+	1. Database
+	2. API Design
+	3. Backend
+	4. Mobile
+	5. Web
+3. Current Progress
+4. Next Steps
+
+* I reserve the right to not follow this structure whatsoever and ramble for 40 minutes
+
+---
+
 ## Functional Requirements
 
 * Create projects that can be used on both mobile and desktop platforms
@@ -54,7 +72,7 @@ This can then be accessed by citizen scientists to discover, participate and sha
 
 * Database - PostgreSQL
 * Backend - OpenAPI/RAML and Python/Go
-* Mobile - Flutter with OpenAPI
+* Mobile -  NativeScript/Native with OpenAPI
 * Web - VueJS (TypeScript and JavaScript)
 
  ---
@@ -65,7 +83,7 @@ Deployment: Hosted on **ScienceCloud**, deployed through **Docker** and **Travis
 
 ## Schema
 
-[schema](https://raw.githubusercontent.com/CitizenScienceCenter/presentations/master/s3it_21_10_2018/img/db_er.png)
+![schema](https://raw.githubusercontent.com/CitizenScienceCenter/presentations/master/s3it_21_10_2018/img/db_er.png)
 
 
 ---
@@ -120,6 +138,8 @@ Info is a JSONB that allows users to extend their model to suit their needs with
 **OpenAPI**
 
 An open specification that allows the description and documentation of an API and the underlying models
+
+![ui](https://raw.githubusercontent.com/CitizenScienceCenter/presentations/master/s3it_21_10_2018/img/oapi_ui.png)
 
 TL;DR - reduces `monkey` coding by a significant factor and makes complex descriptions human readable
 
@@ -207,11 +227,6 @@ I.e. Any frontend developer using this stack needs to know nothing about OpenAPI
 ---
 
 # Frontend
-
-
-**TODO: Image of frontend**
-
----
 
 Developed using **VueJS** 2.0.
 
