@@ -63,6 +63,12 @@ Deployment: Hosted on **ScienceCloud**, deployed through **Docker** and **Travis
 
 ---
 
+## Schema
+
+[schema](./img/db_er.png)
+
+---
+
 ## Database
 
 Two Scenarios:
