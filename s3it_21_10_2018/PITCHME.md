@@ -52,6 +52,7 @@ This can then be accessed by citizen scientists to discover, participate and sha
 3. Current Progress
 4. Next Steps
 
+
 * I reserve the right to not follow this structure whatsoever and ramble for 40 minutes
 
 ---
