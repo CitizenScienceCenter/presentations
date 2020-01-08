@@ -26,9 +26,12 @@
 
 ---
 
-### What is Zuerich Style?
+### What is great about Zurich Style?
 
-* Take it away, Mike!
+* I am not sure of the definition!
+  * Take it away, Mike!
+
+**WARNING! Opinions!** - When Citizen Science is quite an unknown term, is adding words to it beneficial for citizens? It looks great in a paper but I feel that citizens should not need to know the difference between **our** citizen science versus **vanilla** citizen science...
 
 --- 
 
