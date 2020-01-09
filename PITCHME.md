@@ -10,7 +10,6 @@
 * Sense of ownership from all involved
 * Sharing of information, not just 'tasks to complete'
 * More incentives to participate
-* 'True' citizen science
 
 ---
 
@@ -21,7 +20,7 @@
 * No real criteria on how projects are selected
   * Mainly `gut feeling` - (again, PWA can help here!)
 * We only have the platform, no public facing assistance
-* No `matchmaking` citizens with relevant researchers
+* No `matchmaking` citizens with relevant researchers - minimal outreach with citizens
 * No central, open directory of running projects within UZH and ETH
 
 ---
@@ -30,23 +29,29 @@
 
 * I am not sure of the definition!
   * Take it away, Mike!
+  
+---
 
-**WARNING! Opinions!** - When Citizen Science is quite an unknown term, is adding words to it beneficial for citizens? It looks great in a paper but I feel that citizens should not need to know the difference between **our** citizen science versus **vanilla** citizen science...
+**WARNING! Opinions!** - Citizen Science only entered the English language in 2014, adding words to it in a non Native English country could alienate the citizens further. Perhaps define what **we** mean by Citizen Science and use the `research` term only in publications?
 
 --- 
 
 ### Why we (CCCS) aren't doing it?
 
 * **1** Project from UZH, **0.5** from ETH
-* Visibility in Zurich is more important than internation or even international visibility
+* We are not focussing on visibility in Zurich
+    * Rather on national or international visibility
 
 ---
 
 * I feel that (and I may be wrong about some of these things):
   * there is limited active recruitment or advertising within either university
-    * See previous point about collecting running projects 
-  * we are collaborating with U of Geneva that is not in our strategy
-    * But takes most of our time and resources
+    * See previous point about collecting running projects as a directory
+  * we are collaborating with U of Geneva, even though it is not in our strategy
+    * little/no help from their side (all commits come from Chris and Marcel)
+        * > 10 hours spent supporting projects outside of the Center by Chris in 2019
+    * This collaboration takes most of our time and resources and defines our goals/deadlines
+        * i.e. snake challenge
     * These should be used solely for ETH and UZH projects from **now** on
 
 ---
@@ -55,7 +60,7 @@
   * The SDG Toolkit is not in our strategy (or discussed at the General Assembly) but it is a high priority
     * https://imgur.com/a/UfLWaJN 
     * If we are a partner then it should be public and an official collaboration between the UN/EEB should be in place and agreed by the board/upper management
-    * Current efforts toward it should stop and development should focus on the platform outlined in the strategy
+    * Current efforts toward it should **stop** and development should focus on the platform outlined in the strategy
 
 
 
