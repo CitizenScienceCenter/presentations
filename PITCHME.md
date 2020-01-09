@@ -61,7 +61,7 @@
 ---
 
 * I also feel that:
-  * The SDG Toolkit is not in our strategy (or discussed at the General Assembly) but it is a high priority
+  * The SDG Toolkit is not written in our strategy but it is a high priority
     * If we are a partner then it should be public and an official collaboration between the UN/EEB should be in place and agreed by the board/upper management
     * Current efforts toward it should **stop** and development should focus on the platform outlined in the strategy
 
