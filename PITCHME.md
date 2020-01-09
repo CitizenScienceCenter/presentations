@@ -47,6 +47,7 @@
 * Act as a single entity
 * Understand responsibilities
 * One team = one love
+* Hack days, open days (not just with UZH/ETH; use existing meetups. Let Fanny roam!)
 * More presence - Skype is not a solution
-  * Sorry Rosy! I believe you should be in ZH >=3 days a week
+  * Sorry Rosy! I believe the MD should be in ZH >=3 days a week
 
