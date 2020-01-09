@@ -47,7 +47,11 @@
 * I feel that (and I may be wrong about some of these things):
   * there is limited active recruitment or advertising within either university
     * See previous point about collecting running projects as a directory
-  * we are collaborating with U of Geneva, even though it is not in our strategy
+---
+* I feel like:
+  * we are 'collaborating' with U of Geneva
+    * projects come from there and not ETH/UZH
+    * funding goes to them based on our successes (grants applied for based on Snake project)
     * little/no help from their side (all commits come from Chris and Marcel)
         * > 10 hours spent supporting projects outside of the Center by Chris in 2019
     * This collaboration takes most of our time and resources and defines our goals/deadlines
@@ -58,7 +62,6 @@
 
 * I also feel that:
   * The SDG Toolkit is not in our strategy (or discussed at the General Assembly) but it is a high priority
-    * https://imgur.com/a/UfLWaJN 
     * If we are a partner then it should be public and an official collaboration between the UN/EEB should be in place and agreed by the board/upper management
     * Current efforts toward it should **stop** and development should focus on the platform outlined in the strategy
 
